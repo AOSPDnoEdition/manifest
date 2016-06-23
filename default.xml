@@ -520,9 +520,9 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" />
-  <project path="device/asus/msm8916-common" name="AOSPDnoEdition/android_device_asus_msm8916-common" />
-  <project path="device/asus/Z00T" name="AOSPDnoEdition/android_device_asus_Z00T" />
-  <project path="packages/apps/ViperFX" name="AOSPDnoEdition/viper4android_fx" />
+  <project path="device/asus/msm8916-common" name="CmDnoEdition/android_device_asus_msm8916-common" />
+  <project path="device/asus/Z00T" name="CmDnoEdition/android_device_asus_Z00T" />
+  <project path="packages/apps/ViperFX" name="CmDnoEdition/viper4android_fx" />
   <project path="kernel/asus/msm8916" name="CyanogenMod/android_kernel_asus_msm8916" />
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" groups="pdk" />
   <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" groups="pdk" />
